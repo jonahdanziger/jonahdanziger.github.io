@@ -433,7 +433,7 @@ h3 {
 .policy-hero {
   background-image:
     linear-gradient(90deg, rgba(24, 36, 29, 0.72), rgba(24, 36, 29, 0.26)),
-    url("assets/website_policy.jpeg");
+    url("assets/website_policy_banner.jpeg");
 }
 
 .policy-hero .subpage-copy h1 {
